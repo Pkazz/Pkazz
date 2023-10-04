@@ -1,5 +1,4 @@
-- 👋 Hi, My name is Przemek
-- 👀 I’m a junior software tester, after an intensive course at SDA Academy. Also, I have ISTQB 4.0 Certification
+- 👋 Hi,I’m a junior software tester, after an intensive course at SDA Academy. Also, I have ISTQB 4.0 Certification
 - 🌱 I’m currently learning Java, Java Script, Rest API, and Selenium
 - 📫 You can reach me by e-mail and LinkedIn
 Email: Przemyslawkazimierczak@gmail.com
